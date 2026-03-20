@@ -1,0 +1,6 @@
+Metric,Value,Unit
+Model Size,13.54,MB
+P50 Latency,3.51,ms
+P95 Latency,5.72,ms
+P99 Latency,7.46,ms
+Memory Footprint,158,MB
