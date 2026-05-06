@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/infer.dir/link.d CMakeFiles/infer.dir/src/infer.cpp.o -o infer   -L/home/durga/onnxruntime-linux-x64-1.20.1/lib  -Wl,-rpath,/home/durga/onnxruntime-linux-x64-1.20.1/lib /home/durga/onnxruntime-linux-x64-1.20.1/lib/libonnxruntime.so

@@ -1,0 +1,17 @@
+Model:   mobilenet_v2.onnx
+Input:   ./images
+Batch:   1
+Threads: 2
+
+Input node:  x
+Output node: linear
+
+Found 5 image(s)
+
+Filename | Predicted Class | Confidence | Latency (ms)
+-----------------------------------------------------------------
+test_1.jpg | class 111 | 1.64507% | 7.26415 ms
+test_2.jpg | class 111 | 1.64507% | 6.21015 ms
+test_3.jpg | class 111 | 1.64507% | 4.19534 ms
+test_4.jpg | class 111 | 1.64507% | 5.36886 ms
+test_5.jpg | class 111 | 1.64507% | 4.49458 ms

@@ -1,0 +1,3 @@
+/home/durga/Task_3_CPP_Wrapper/build/CMakeFiles/infer.dir
+/home/durga/Task_3_CPP_Wrapper/build/CMakeFiles/edit_cache.dir
+/home/durga/Task_3_CPP_Wrapper/build/CMakeFiles/rebuild_cache.dir
