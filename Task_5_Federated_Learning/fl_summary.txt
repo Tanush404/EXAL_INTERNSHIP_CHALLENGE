@@ -1,0 +1,9 @@
+Centralized baseline accuracy: 0.2495
+FL final accuracy (round 5):   0.0214
+Accuracy gap:                  0.2281
+FP32 global model size:        0.25 MB
+INT8 global model size:        2.66 MB
+Size reduction:                0.1x
+FP32 latency:                  4.09 ms
+INT8 latency:                  4.16 ms
+Speedup:                       0.98x
